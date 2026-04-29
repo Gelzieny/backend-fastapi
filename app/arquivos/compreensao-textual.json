@@ -1,0 +1,1178 @@
+[
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "O policiamento ostensivo foi aumentado no bairro.",
+    "hipotese": "A presença de policiais nas ruas do bairro diminuiu.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A vacinação em massa contra a poliomielite foi realizada.",
+    "hipotese": "A campanha de imunização contra a paralisia infantil aconteceu.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "O semáforo está vermelho para os carros.",
+    "hipotese": "Os motoristas têm permissão para acelerar e cruzar a via.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "A população começou a separar o lixo orgânico do reciclável.",
+    "hipotese": "A coleta seletiva está sendo praticada.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "A família se cadastrou no programa de transferência de renda.",
+    "hipotese": "A família não receberá nenhum tipo de auxílio financeiro.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "O concurso público foi aberto para preencher novas vagas.",
+    "hipotese": "O governo está buscando contratar novos funcionários.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "A lei foi aprovada pelo Congresso e sancionada pelo Presidente.",
+    "hipotese": "A lei não possui validade e não precisa ser seguida.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "Uma nova câmera de segurança foi instalada na praça central.",
+    "hipotese": "A praça central é agora monitorada por vídeo.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "Lavar as mãos com frequência previne a transmissão de germes.",
+    "hipotese": "A higiene das mãos é um hábito que pode manter as pessoas mais saudáveis.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "O pedestre deve atravessar a rua na faixa de segurança.",
+    "hipotese": "Atravessar fora da faixa é a única opção segura para pedestres.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "Plantar árvores melhora a qualidade do ar.",
+    "hipotese": "A arborização contribui para um ambiente mais saudável.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O programa oferece cestas básicas para famílias em situação de pobreza.",
+    "hipotese": "As famílias beneficiadas precisarão comprar toda a sua comida.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "A prefeitura está consertando um grande buraco na rua.",
+    "hipotese": "A via pública está passando por manutenção.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "É proibido estacionar em vagas reservadas para idosos sem a credencial.",
+    "hipotese": "Qualquer motorista pode usar a vaga de idoso a qualquer momento.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A vizinhança criou um grupo de vigilância solidária para trocar informações sobre segurança.",
+    "hipotese": "Os moradores do bairro estão preocupados com a segurança.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "O hospital inaugurou uma nova ala de cardiologia.",
+    "hipotese": "O hospital agora possui instalações dedicadas ao tratamento de doenças cardíacas.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "A prefeitura instalou novas ciclovias na cidade.",
+    "hipotese": "A infraestrutura para ciclistas foi ampliada.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "Uma campanha de conscientização sobre o desperdício de água foi lançada na TV.",
+    "hipotese": "O consumo de água na cidade aumentará drasticamente no próximo mês.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O governo aumentou o valor do benefício social de R$ 600 para R$ 650.",
+    "hipotese": "As famílias beneficiadas terão um maior poder de compra.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "O portal da transparência do município foi atualizado com novos dados de despesas.",
+    "hipotese": "O portal da transparência foi permanentemente retirado do ar.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "O cidadão entrou com um mandado de segurança para garantir seu direito à nomeação em concurso.",
+    "hipotese": "Ele está buscando na justiça uma proteção para um direito que acredita possuir.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A guarda municipal recebeu novas viaturas elétricas.",
+    "hipotese": "A frota da guarda municipal foi renovada com veículos que não emitem poluentes.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A campanha de doação de sangue foi divulgada nas redes sociais.",
+    "hipotese": "Os estoques dos bancos de sangue da cidade estão todos com nível máximo e não precisam de mais doações.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "Foram instalados redutores de velocidade perto da escola.",
+    "hipotese": "A medida visa aumentar a segurança dos estudantes.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "A coleta seletiva foi implementada em novos bairros da zona sul.",
+    "hipotese": "A zona sul continua sem nenhum tipo de coleta seletiva.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O CRAS está realizando um mutirão para atualizar os cadastros do CadÚnico.",
+    "hipotese": "O objetivo da ação é garantir que as informações dos beneficiários estejam corretas.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "O município abriu um canal de ouvidoria para receber reclamações e sugestões.",
+    "hipotese": "O município se recusa a ouvir a opinião dos cidadãos.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "Uma nova emenda constitucional foi promulgada, alterando o sistema de previdência.",
+    "hipotese": "O texto da Constituição Federal foi modificado.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A delegacia especializada em crimes cibernéticos recebeu novos equipamentos de rastreamento digital.",
+    "hipotese": "A capacidade da delegacia para investigar fraudes online foi reduzida.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "O programa de saúde da família expandiu sua área de cobertura para incluir o bairro das Flores.",
+    "hipotese": "Os moradores do bairro das Flores agora podem ser atendidos pelo programa de saúde da família.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "A cidade implementou um sistema de rodízio de veículos no centro durante o horário de pico.",
+    "hipotese": "Todos os carros podem circular livremente no centro da cidade a qualquer hora do dia.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "Uma empresa foi multada por desmatamento ilegal em uma área de preservação permanente.",
+    "hipotese": "A empresa foi premiada por suas práticas de conservação ambiental.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O Centro de Referência de Assistência Social (CRAS) está oferecendo cursos profissionalizantes gratuitos de informática.",
+    "hipotese": "Os usuários do serviço terão mais oportunidades no mercado de trabalho.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "A prefeitura iniciou um processo de licitação para a construção de uma nova escola.",
+    "hipotese": "A nova escola já foi construída e inaugurada na semana passada.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "O Supremo Tribunal Federal declarou a inconstitucionalidade de uma lei municipal.",
+    "hipotese": "A referida lei municipal perde sua validade e não pode mais produzir efeitos.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "Um programa de mediação de conflitos foi implementado na comunidade escolar.",
+    "hipotese": "A iniciativa busca resolver disputas entre alunos de forma pacífica.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "O governo lançou uma política nacional de saúde mental com foco na prevenção ao suicídio.",
+    "hipotese": "O governo ignora completamente as questões de saúde mental da população.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "A fiscalização por radares móveis foi intensificada nas rodovias estaduais de Goiás.",
+    "hipotese": "O número de multas por excesso de velocidade nessas rodovias deve diminuir.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "O licenciamento ambiental para um grande empreendimento hidrelétrico foi aprovado com 30 condicionantes.",
+    "hipotese": "A empresa poderá operar a hidrelétrica se, e somente se, cumprir as 30 exigências impostas.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O benefício de prestação continuada (BPC) foi concedido a um idoso de 68 anos com renda familiar per capita inferior a 1/4 do salário mínimo.",
+    "hipotese": "Qualquer idoso, independentemente da renda, tem direito a receber o BPC.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "Um servidor público foi submetido a um processo administrativo disciplinar (PAD) por suspeita de corrupção.",
+    "hipotese": "A conduta do servidor está sendo formalmente investigada pela administração.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "O Ministério Público ajuizou uma Ação Civil Pública contra uma mineradora por dano ambiental.",
+    "hipotese": "O Ministério Público está representando os interesses da mineradora na justiça.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "As forças de segurança realizaram uma operação conjunta de inteligência para desarticular uma organização criminosa.",
+    "hipotese": "A operação foi um fracasso total e a organização criminosa se fortaleceu.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A agência reguladora de saúde aprovou um novo tratamento de imunoterapia para um tipo raro de câncer de pele.",
+    "hipotese": "O tratamento aprovado serve para curar todos os tipos de câncer existentes.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "O plano diretor da cidade prevê a criação de corredores exclusivos para ônibus (BRT) nos principais eixos viários.",
+    "hipotese": "A política de mobilidade urbana da cidade prioriza o transporte público coletivo.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "O governo estabeleceu uma política de pagamento por serviços ambientais para proprietários rurais que conservam nascentes.",
+    "hipotese": "Agricultores que destroem nascentes em suas propriedades receberão uma compensação financeira.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O Cadastro Único para Programas Sociais está passando por um processo de averiguação cadastral para identificar inconsistências.",
+    "hipotese": "O governo está revisando os dados dos beneficiários para garantir a correta destinação dos recursos.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "A nova Lei de Licitações (Lei nº 14.133/2021) introduziu a modalidade do diálogo competitivo para contratações complexas.",
+    "hipotese": "Esta nova modalidade de licitação será usada para comprar materiais de escritório simples, como canetas.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "Foi instaurado um incidente de resolução de demandas repetitivas (IRDR) no tribunal de justiça.",
+    "hipotese": "O objetivo é criar uma tese jurídica única para um conjunto de casos idênticos, garantindo isonomia.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A política de redução de danos para usuários de drogas foi adotada como estratégia de saúde e segurança pública.",
+    "hipotese": "A nova política se concentra exclusivamente na punição e encarceramento de todos os usuários de drogas.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "Um estudo de coorte está avaliando os efeitos a longo prazo de um novo medicamento em um grupo de 5.000 pacientes.",
+    "hipotese": "Os pesquisadores estão acompanhando um grupo específico de pessoas ao longo do tempo para coletar dados de saúde.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "A prefeitura de Goiânia está implementando um sistema de semáforos inteligentes que se ajustam ao fluxo de trânsito em tempo real.",
+    "hipotese": "A prefeitura de Goiânia está investindo em melhorias para o trânsito de Goiânia.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "O Zoneamento Ecológico-Econômico (ZEE) do estado foi atualizado para definir áreas de conservação e áreas aptas à agricultura.",
+    "hipotese": "O ZEE é um instrumento que organiza o uso do território, conciliando produção e proteção ambiental.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O governo está discutindo a implementação de uma renda básica universal, um pagamento a todos os cidadãos, sem condicionalidades.",
+    "hipotese": "A nova proposta de renda básica só pagará o benefício para quem tiver filhos matriculados na escola.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "Foi celebrada uma Parceria Público-Privada (PPP) para a modernização e gestão dos aeroportos regionais.",
+    "hipotese": "A gestão dos aeroportos continuará sendo de responsabilidade exclusiva do setor público.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "O Tribunal de Contas da União emitiu um parecer prévio recomendando a rejeição das contas do governo federal.",
+    "hipotese": "A decisão final sobre as contas será do Congresso Nacional, que pode acatar ou não a recomendação do TCU.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A implementação de um sistema de reconhecimento facial em larga escala nos espaços públicos gera debates sobre a privacidade dos cidadãos.",
+    "hipotese": "A tecnologia de reconhecimento facial é universalmente aceita e não levanta nenhuma preocupação ética ou legal.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A judicialização da saúde, com decisões que obrigam o Estado a fornecer medicamentos de alto custo ainda não incorporados ao SUS, pressiona o orçamento do sistema.",
+    "hipotese": "O cumprimento de decisões judiciais individuais pode impactar a alocação de recursos para políticas de saúde coletiva, baseadas em evidência e custo-efetividade.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "A gestão da mobilidade urbana em metrópoles exige a integração de múltiplos modais e a análise de dados em tempo real para otimizar o fluxo.",
+    "hipotese": "A solução para o trânsito em grandes cidades é simplesmente construir mais viadutos, ignorando outros meios de transporte.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "O princípio do poluidor-pagador imputa ao poluidor os custos da reparação do dano ambiental que ele causou.",
+    "hipotese": "Este princípio determina que o poluidor deve ser financeiramente responsabilizado pela externalidade negativa que gerou.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "A avaliação da eficácia de programas de transferência de renda condicionada envolve a análise de impacto sobre indicadores multidimensionais de pobreza.",
+    "hipotese": "Para avaliar esses programas, basta verificar se o beneficiário sabe pilotar um avião.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "A governança pública contemporânea demanda a aplicação de princípios de compliance e a implementação de programas de integridade para mitigar riscos de corrupção.",
+    "hipotese": "A adoção de programas de integridade visa fortalecer a legitimidade da atuação estatal através da transparência e conformidade.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "A teoria do desvio de finalidade no ato administrativo discricionário implica que a ação é inválida se o objetivo real do gestor for diverso do interesse público.",
+    "hipotese": "O controle judicial do ato administrativo discricionário se restringe a analisar se o gestor tinha poder para praticar o ato, sem avaliar suas intenções.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A análise preditiva de crimes, utilizando algoritmos de IA, levanta questões sobre vieses que podem perpetuar policiamento discriminatório.",
+    "hipotese": "O uso de IA na segurança pública é uma solução perfeita, isenta de qualquer tipo de viés ou possibilidade de discriminação.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A regulação de terapias gênicas, como o CRISPR-Cas9, pelo Estado envolve complexos dilemas bioéticos e de segurança sanitária.",
+    "hipotese": "A regulamentação de novas tecnologias de edição genética deve ponderar o potencial de cura contra os riscos desconhecidos e questões de acesso equitativo.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "O desenvolvimento de veículos autônomos demanda uma revisão da legislação de trânsito e dos modelos de responsabilidade civil em acidentes.",
+    "hipotese": "Em caso de acidente com um carro autônomo, a legislação atual já define claramente se a culpa é do software, do fabricante ou do proprietário.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "A aplicação do princípio da precaução na regulação de novas substâncias químicas exige uma decisão na ausência de certeza científica absoluta sobre os riscos.",
+    "hipotese": "O princípio da precaução só pode ser invocado quando há 100% de certeza científica de que um dano ambiental ocorrerá.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O debate sobre a 'porta de saída' dos programas de assistência social envolve a criação de políticas integradas que promovam a autonomia sustentável dos beneficiários.",
+    "hipotese": "O objetivo final da assistência social é manter as pessoas permanentemente dependentes dos auxílios do governo.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "A contratualização de resultados na gestão pública, por meio de contratos de gestão, visa atrelar a autonomia de uma entidade ao cumprimento de metas de desempenho.",
+    "hipotese": "Nesse modelo, a entidade recebe mais autonomia e recursos, e em contrapartida, compromete-se a entregar resultados mensuráveis à sociedade.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "O conceito de 'estado de coisas inconstitucional' permite ao judiciário intervir em situações de violação massiva e persistente de direitos fundamentais por falhas estruturais dos poderes públicos.",
+    "hipotese": "Este conceito foi aplicado pelo STF à situação do sistema prisional brasileiro, demandando ações estruturais dos demais poderes.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A delação premiada é um instrumento jurídico em que um investigado colabora com a justiça em troca de benefícios penais.",
+    "hipotese": "A delação premiada foi proibida no Brasil.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A Anvisa exige testes clínicos em três fases para aprovar um novo medicamento.",
+    "hipotese": "Para a anvisa testes clínicos não são importantes para aprovar um novo medicamento .",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "A Carteira Nacional de Habilitação (CNH) tem um sistema de pontos para infrações.",
+    "hipotese": "Acumular um certo número de pontos pode levar à suspensão do direito de dirigir.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "O rompimento da barragem em Mariana causou um dos maiores desastres ambientais do Brasil.",
+    "hipotese": "O rompimento da barragem em Mariana não teve nenhum impacto no meio ambiente.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O Bolsa Família exige que as crianças beneficiárias tenham a carteira de vacinação em dia.",
+    "hipotese": "Uma das condicionalidades do programa está relacionada à saúde infantil.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "O prefeito foi reeleito para um segundo mandato consecutivo.",
+    "hipotese": "O mesmo prefeito não poderá se candidatar ao mesmo cargo na próxima eleição.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "O habeas corpus é uma garantia fundamental para proteger o direito de locomoção.",
+    "hipotese": "O habeas corpus serve para garantir o direito à propriedade de imóveis.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "O número de telefone 190 é para emergências policiais.",
+    "hipotese": "Ao ligar para o 190, a pessoa será atendida pelo corpo de bombeiros.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "O Sistema Único de Saúde (SUS) oferece atendimento gratuito à população.",
+    "hipotese": "Para ser atendido no SUS, é preciso pagar uma alta taxa de consulta.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "Dirigir após consumir bebida alcoólica é uma infração de trânsito gravíssima.",
+    "hipotese": "A lei seca proíbe a combinação de álcool e direção.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "O descarte de pilhas e baterias em lixo comum contamina o solo e a água.",
+    "hipotese": "Pilhas e baterias devem ter um descarte especializado.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O Benefício de Prestação Continuada (BPC) é destinado a idosos e pessoas com deficiência de baixa renda.",
+    "hipotese": "Jovens ricos e sem deficiência têm direito ao BPC.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "Um edital de licitação foi publicado para contratar uma empresa de limpeza para as repartições.",
+    "hipotese": "A empresa vencedora não cuidará da limpeza das repartições",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "A Lei de Improbidade Administrativa pune agentes públicos por enriquecimento ilícito.",
+    "hipotese": "A lei visa combater a corrupção e proteger o patrimônio público.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A polícia federal investiga crimes de âmbito nacional e internacional.",
+    "hipotese": "A polícia federal é responsável pelas multas de trânsito municipais.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A dengue é uma doença transmitida pelo mosquito Aedes aegypti.",
+    "hipotese": "Eliminar os focos de água parada ajuda a combater a dengue.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "O uso do cinto de segurança é obrigatório para todos os ocupantes do veículo.",
+    "hipotese": "Apenas o motorista precisa usar o cinto de segurança.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "O Brasil possui uma das maiores biodiversidades do planeta.",
+    "hipotese": "O Brasil tem uma fauna e flora muito ricas e variadas.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O Cadastro Único (CadÚnico) precisa ser atualizado a cada dois anos.",
+    "hipotese": "As informações do CadÚnico nunca precisam ser revisadas.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "O Diário Oficial é o veículo de comunicação pelo qual o governo publica seus atos oficiais.",
+    "hipotese": "As novas leis e decretos são publicados no Diário Oficial.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "A desapropriação por interesse social é um ato pelo qual o Estado toma para si a propriedade de um particular, mediante indenização.",
+    "hipotese": "Na desapropriação, o particular perde sua propriedade para o Estado sem receber nada em troca.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A audiência de custódia garante que uma pessoa presa em flagrante seja apresentada a um juiz em até 24 horas.",
+    "hipotese": "A audiência de custódia foi adiada por 30 dias.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A Talidomida, usada no passado para enjoo na gravidez, causou má-formação em fetos.",
+    "hipotese": "A Talidomida é um medicamento seguro para gestantes.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "A Lei Seca prevê tolerância zero para o consumo de álcool por motoristas.",
+    "hipotese": "Pequenas quantidades de álcool são permitidas ao volante pela Lei Seca.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "O Cadastro Ambiental Rural (CAR) é um registro eletrônico obrigatório para todos os imóveis rurais.",
+    "hipotese": "Apenas grandes latifúndios precisam se inscrever no CAR.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O Sistema Único de Assistência Social (SUAS) organiza os serviços socioassistenciais no Brasil.",
+    "hipotese": "O SUAS é uma rede articulada que inclui os CRAS e CREAS.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "O princípio da publicidade exige que os atos da Administração Pública sejam transparentes.",
+    "hipotese": "A Administração Pública deve agir de forma secreta e sigilosa.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "A Ação Direta de Inconstitucionalidade (ADI) questiona a validade de uma lei federal ou estadual perante a Constituição.",
+    "hipotese": "A ADI é o instrumento usado para verificar se uma lei está de acordo com a Constituição.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A tornozeleira eletrônica é usada para monitorar presos que cumprem pena em regime semiaberto ou aberto.",
+    "hipotese": "A tornozeleira eletrônica é um acessório de moda popular entre os jovens.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A vigilância sanitária fiscaliza a qualidade de alimentos em restaurantes e supermercados.",
+    "hipotese": "A vigilância sanitária inspecionou um restaurante e encontrou produtos vencidos.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "A placa Mercosul foi adotada para padronizar a identificação de veículos no bloco econômico.",
+    "hipotese": "A placa Mercosul possui um QR Code que dá acesso às informações do veículo.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "A queima de combustíveis fósseis libera gases de efeito estufa, intensificando o aquecimento global.",
+    "hipotese": "A queima de combustíveis fósseis ajuda a esfriar o planeta.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O Centro de Referência Especializado de Assistência Social (CREAS) atende famílias e indivíduos em situação de risco pessoal ou social.",
+    "hipotese": "O CREAS é o local adequado para se matricular em aulas de natação.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "A estabilidade no serviço público é adquirida pelo servidor concursado após três anos de efetivo exercício.",
+    "hipotese": "Um servidor concursado pode ser demitido sem justificativa no seu primeiro dia de trabalho.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "O princípio da legalidade, no direito administrativo, significa que o gestor público só pode fazer o que a lei permite.",
+    "hipotese": "Um prefeito pode criar um novo imposto por meio de um simples decreto, sem autorização em lei.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A taxa de homicídios em Goiânia caiu 15% no último ano, segundo dados da Secretaria de Segurança.",
+    "hipotese": "Houve uma redução no número de assassinatos em Goiânia no período analisado.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "O transplante de órgãos depende da autorização da família do doador falecido.",
+    "hipotese": "A decisão da família é um fator crucial para a doação de órgãos ocorrer.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "O rodízio de veículos em São Paulo restringe a circulação de carros em determinados dias da semana, conforme o final da placa.",
+    "hipotese": "Em São Paulo, um carro com placa final 1 pode circular livremente no centro na segunda-feira, dia de sua restrição.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "A Mata Atlântica é um dos biomas mais devastados do Brasil, restando apenas uma pequena fração de sua cobertura original.",
+    "hipotese": "A Mata Atlântica está totalmente preservada e intacta.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O Auxílio Gás é um programa que ajuda famílias de baixa renda a comprar o botijão de gás de cozinha.",
+    "hipotese": "O programa visa mitigar o impacto do preço do gás no orçamento das famílias mais pobres.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "Um ato administrativo com vício de competência é aquele praticado por um agente que não tinha poder legal para fazê-lo.",
+    "hipotese": "Um ato administrativo praticado por agente incompetente é considerado ilegal.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "O direito de greve dos servidores públicos é assegurado pela Constituição, mas depende de lei específica para ser exercido plenamente.",
+    "hipotese": "A Constituição proíbe terminantemente a greve de qualquer servidor público.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A Lei Maria da Penha criou mecanismos para coibir a violência doméstica e familiar contra a mulher.",
+    "hipotese": "A referida lei se aplica a casos de briga de trânsito entre homens desconhecidos.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A pandemia de COVID-19 levou a um aumento expressivo no uso de serviços de telessaúde.",
+    "hipotese": "Durante a pandemia, as consultas médicas realizadas à distância se tornaram mais comuns.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "O CONTRAN é o órgão máximo normativo e consultivo do Sistema Nacional de Trânsito.",
+    "hipotese": "O CONTRAN é responsável por jogar futebol aos domingos.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "A reciclagem de uma tonelada de papel pode poupar cerca de 22 árvores.",
+    "hipotese": "A reciclagem de papel não tem nenhum benefício ambiental.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O programa Criança Feliz foca no desenvolvimento integral de crianças na primeira infância.",
+    "hipotese": "O público-alvo do programa são os idosos com mais de 80 anos.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "O nepotismo, nomeação de parentes para cargos de confiança, é vedado na administração pública.",
+    "hipotese": "Um prefeito pode nomear legalmente seu irmão, sem qualificação técnica, para o cargo de Secretário de Saúde.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "A soberania popular, segundo a Constituição, é exercida pelo sufrágio universal e pelo voto direto e secreto.",
+    "hipotese": "O voto é uma das principais formas de exercício da soberania popular no Brasil.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A interceptação telefônica só pode ser autorizada por um juiz para investigação criminal ou instrução processual penal.",
+    "hipotese": "Qualquer pessoa pode solicitar a quebra do sigilo telefônico de outra por mera curiosidade.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A Farmácia Popular é um programa que oferece medicamentos com grandes descontos ou de graça.",
+    "hipotese": "O programa visa ampliar o acesso da população a medicamentos essenciais.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "O RENAVAM é o Registro Nacional de Veículos Automotores, um número único para cada veículo.",
+    "hipotese": "Dois carros diferentes podem possuir o mesmo número de RENAVAM.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "A criação de unidades de conservação é uma estratégia para proteger a biodiversidade.",
+    "hipotese": "Parques nacionais e reservas biológicas são exemplos de unidades de conservação.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "A transição do programa Bolsa Família para o Auxílio Brasil gerou debates sobre a gestão do cadastro de beneficiários.",
+    "hipotese": "A mudança no programa de transferência de renda foi implementada sem nenhuma discussão pública.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "O tombamento é um ato administrativo que visa proteger bens de valor histórico, cultural ou paisagístico.",
+    "hipotese": "Um prédio histórico tombado pode ser demolido a qualquer momento para a construção de um shopping.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "A arguição de descumprimento de preceito fundamental (ADPF) serve para evitar ou reparar lesão a princípio fundamental da Constituição.",
+    "hipotese": "A ADPF é uma ação judicial para resolver disputas de vizinhança.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A Guarda Civil Metropolitana de Goiânia tem poder de polícia administrativa e atua na proteção do patrimônio e na segurança da cidade.",
+    "hipotese": "A Guarda Civil Metropolitana não tem nenhuma função relacionada à segurança.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A obesidade é considerada um fator de risco para doenças como diabetes tipo 2 e hipertensão.",
+    "hipotese": "O excesso de peso pode aumentar a probabilidade de uma pessoa desenvolver outros problemas de saúde.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "A sinalização de 'PARE' em um cruzamento exige a parada total do veículo antes de prosseguir.",
+    "hipotese": "A placa 'PARE' significa que o motorista pode apenas reduzir a velocidade, sem parar completamente.",
+    "nivel": "Muito Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "O Cerrado, presente em Goiás, é conhecido como a savana mais biodiversa do mundo e a caixa d'água do Brasil.",
+    "hipotese": "O bioma Cerrado é pobre em espécies e não tem relevância hídrica para o país.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O Programa de Aquisição de Alimentos (PAA) compra produtos da agricultura familiar e os destina a pessoas em insegurança alimentar.",
+    "hipotese": "O PAA fortalece a agricultura familiar e combate a fome simultaneamente.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "Um cargo em comissão é de livre nomeação e exoneração, não exigindo concurso público.",
+    "hipotese": "Para ocupar um cargo em comissão, é obrigatório ser aprovado em um difícil concurso público.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "A Súmula Vinculante, editada pelo STF, tem efeito obrigatório para os demais órgãos do Judiciário e para a administração pública.",
+    "hipotese": "Um juiz de primeira instância pode decidir de forma contrária a uma Súmula Vinculante.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A implementação de câmeras corporais nos uniformes dos policiais visa aumentar a transparência e reduzir a letalidade policial.",
+    "hipotese": "As câmeras corporais foram introduzidas para tornar as ações policiais mais secretas.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "O SAMU (Serviço de Atendimento Móvel de Urgência) atende pelo telefone 192.",
+    "hipotese": "O número para acionar o SAMU é o mesmo da polícia.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "Estacionar em fila dupla é uma infração de trânsito que atrapalha o fluxo de veículos.",
+    "hipotese": "Parar o carro ao lado de outro já estacionado é uma prática que melhora o trânsito.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "A poluição sonora em grandes centros urbanos é considerada um problema de saúde pública.",
+    "hipotese": "O excesso de ruído nas cidades não afeta a saúde das pessoas.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "A insegurança alimentar ocorre quando uma pessoa não tem acesso regular e permanente a alimentos de qualidade.",
+    "hipotese": "Uma pessoa que come em restaurantes caros todos os dias está em situação de insegurança alimentar.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "O estágio probatório é o período de avaliação do servidor público recém-empossado.",
+    "hipotese": "Durante o estágio probatório, a aptidão do servidor para o cargo é analisada.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "A República Federativa do Brasil é formada pela união indissolúvel dos Estados, Municípios e do Distrito Federal.",
+    "hipotese": "Um Estado-membro, como Goiás, pode legalmente se separar do Brasil a qualquer momento.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A perícia criminal é fundamental para a produção de provas técnicas em uma investigação.",
+    "hipotese": "A análise da cena do crime e dos vestígios é uma etapa importante do trabalho pericial.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "Os agentes comunitários de saúde visitam as residências para orientar as famílias e monitorar a saúde local.",
+    "hipotese": "O trabalho dos agentes comunitários de saúde é realizado exclusivamente dentro dos hospitais.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "A preferência em uma rotatória não sinalizada é do veículo que já está circulando por ela.",
+    "hipotese": "Quem chega em uma rotatória tem sempre a preferência sobre quem já está nela.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "O descarte incorreto de óleo de cozinha nos ralos polui rios e dificulta o tratamento da água.",
+    "hipotese": "Jogar óleo de fritura na pia da cozinha é uma prática ecologicamente correta.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "Muitos programas sociais utilizam o Número de Identificação Social (NIS) para identificar os beneficiários.",
+    "hipotese": "O NIS é um código numérico associado ao cidadão para fins de políticas sociais.",
+    "nivel": "Fácil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "A Controladoria-Geral da União (CGU) é o órgão do governo federal responsável pela defesa do patrimônio público e pela transparência.",
+    "hipotese": "A CGU tem como uma de suas funções o combate à corrupção no âmbito federal.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "Os três poderes da República - Executivo, Legislativo e Judiciário - são independentes e harmônicos entre si.",
+    "hipotese": "O Poder Judiciário está subordinado e deve obedecer a todas as ordens do Poder Executivo.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "O Estatuto do Desarmamento regulamenta o porte e a posse de armas de fogo no Brasil.",
+    "hipotese": "Qualquer cidadão pode comprar uma arma de fogo livremente em supermercados.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A vacina bivalente contra a COVID-19 oferece proteção contra a cepa original e a variante Ômicron.",
+    "hipotese": "A vacina bivalente protege contra duas variantes diferentes do coronavírus.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "Conduzir motocicleta sem usar capacete é uma infração gravíssima que acarreta suspensão do direito de dirigir.",
+    "hipotese": "Andar de moto sem capacete é uma infração leve, que gera apenas uma advertência verbal.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "O Acordo de Paris é um tratado internacional que visa reduzir as emissões de gases de efeito estufa.",
+    "hipotese": "O objetivo do Acordo de Paris é aumentar a poluição global.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "A focalização dos programas sociais busca concentrar os recursos nas populações mais pobres e vulneráveis.",
+    "hipotese": "A estratégia de focalização distribui os benefícios sociais igualmente entre ricos e pobres.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "A improbidade administrativa ocorre quando um agente público atua contra os princípios da administração, como a honestidade e a legalidade.",
+    "hipotese": "Um prefeito que desvia dinheiro da merenda escolar para benefício próprio comete ato de improbidade administrativa.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "O mandado de injunção é utilizado quando a falta de uma norma regulamentadora torna inviável o exercício de um direito constitucional.",
+    "hipotese": "O mandado de injunção serve para obrigar o poder competente a criar a norma que falta.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "O sistema prisional de Goiás enfrenta desafios como a superlotação e a atuação de facções criminosas.",
+    "hipotese": "O sistema prisional goiano é um modelo de perfeição, sem nenhum problema.",
+    "nivel": "Fácil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "A epidemiologia é a ciência que estuda a distribuição e os determinantes de doenças em populações.",
+    "hipotese": "Um estudo epidemiológico sobre o câncer de pulmão pode investigar a relação entre o tabagismo e a doença.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "A velocidade máxima permitida em uma via urbana não sinalizada é de 40 km/h.",
+    "hipotese": "O motorista foi multado por dirigir a 80 km/h em uma rua do bairro sem placas de velocidade.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "A logística reversa é o processo de retorno de produtos, embalagens ou resíduos ao setor empresarial para reaproveitamento.",
+    "hipotese": "A obrigação de receber pilhas usadas para descarte correto é um exemplo de logística reversa.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "A avaliação de impacto de um programa social compara o que aconteceu com os beneficiários com o que teria acontecido com eles sem o programa.",
+    "hipotese": "A avaliação de impacto ignora completamente os resultados do programa.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "A autarquia é uma entidade da administração indireta, criada por lei, com personalidade jurídica própria, para executar atividades típicas do Estado.",
+    "hipotese": "O INSS, responsável pela previdência social, é um exemplo de autarquia federal.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "O controle de constitucionalidade difuso permite que qualquer juiz ou tribunal declare a inconstitucionalidade de uma lei em um caso concreto.",
+    "hipotese": "Apenas o Supremo Tribunal Federal pode analisar a constitucionalidade de leis.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Segurança Pública",
+    "premissa": "A teoria da janela quebrada sugere que pequenos sinais de desordem, se não reprimidos, podem levar a crimes mais graves.",
+    "hipotese": "Segundo essa teoria, pichações e vandalismo podem encorajar a ocorrência de crimes mais sérios na área.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Saúde",
+    "premissa": "O nexo causal em saúde do trabalhador estabelece a ligação entre a doença e a atividade laboral exercida.",
+    "hipotese": "A perda auditiva de um operário que trabalha com britadeiras sem proteção pode ser considerada uma doença ocupacional com nexo causal.",
+    "nivel": "Médio",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Trânsito",
+    "premissa": "As Zonas Azuis são áreas de estacionamento rotativo pago para democratizar o uso das vagas em locais de grande movimento.",
+    "hipotese": "Nas Zonas Azuis, um motorista pode estacionar seu carro de graça e deixá-lo lá por uma semana inteira.",
+    "nivel": "Médio",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "premissa": "A outorga de direito de uso de recursos hídricos é um instrumento que autoriza e controla a captação de água de rios e poços.",
+    "hipotese": "Qualquer pessoa ou empresa pode retirar quanta água quiser de um rio, sem precisar de autorização do governo.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Programa de Assistência Básica",
+    "premissa": "O conceito de 'pobreza multidimensional' considera privações para além da renda, como acesso à educação, saúde e saneamento.",
+    "hipotese": "A pobreza multidimensional mede a riqueza de uma pessoa apenas pela sua conta bancária.",
+    "nivel": "Difícil",
+    "gabarito": "Contradição"
+  },
+  {
+    "categoria": "Administração Pública",
+    "premissa": "O poder de polícia administrativa permite ao Estado restringir direitos individuais em prol do interesse coletivo.",
+    "hipotese": "A interdição de um restaurante pela vigilância sanitária por falta de higiene é um exercício do poder de polícia.",
+    "nivel": "Difícil",
+    "gabarito": "Implicação"
+  },
+  {
+    "categoria": "Direito Público",
+    "premissa": "O instituto da repercussão geral exige que, para o STF julgar um Recurso Extraordinário, a questão constitucional deve ultrapassar os interesses das partes.",
+    "hipotese": "O STF só julga Recursos Extraordinários se a matéria tiver relevância social, política, econômica ou jurídica para toda a sociedade.",
+    "nivel": "Muito Complexo",
+    "gabarito": "Implicação"
+  }
+]

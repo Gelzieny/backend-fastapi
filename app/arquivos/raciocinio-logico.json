@@ -1,0 +1,62 @@
+[
+	{
+        "pergunta": "Analise os argumentos a seguir. I) Se o responsável aprovou a ordem de pagamento, então a transferência é enviada. A transferência não foi enviada; logo, o responsável não aprovou a ordem. II) Se o analista concluir o balanço, o Tribunal recebe o demonstrativo. Se ele finalizar o relatório, a secretaria libera recursos. Como ele fará pelo menos uma dessas tarefas, ocorrerá pelo menos um dos resultados. III) Ou o agente entregou o plano ou ele revisou a matriz. Ele não entregou o plano; logo, conclui-se que ele não revisou a matriz. Quais dos argumentos I, II, III são validos?",
+        "level": "Muito Fácil",
+        "Gabarito": "Os argumentos validos são o I e II, apenas."
+    },
+	{
+        "pergunta": "Considere a sequência numérica a seguir, da qual dois termos foram omitidos com # (0,1,1,2,3,#,#,13).Dados os primeiros termos, 0 e 1, cada um dos termos seguintes é igual à soma dos dois termos anteriores, segundo a fórmula F (n) = F (n – 1) + F (n – 2). Quais são os números que preenchem respectivamente os dois #?",
+        "level": "Muito Fácil",
+        "Gabarito": "São os números 5 e 8."
+    },
+	{
+        "pergunta": "Em um evento de teatro, a produção precisa escolher 3 atores para papéis principais e 2 atores para papéis secundários. Se existem 8 candidatos para papéis principais e 6 para papéis secundários, de quantas formas diferentes a produção pode fazer a escolha?",
+        "level": "Muito Fácil",
+        "Gabarito": "A resposta é 840"
+    },
+	{
+        "pergunta": "Em uma expedição científica à Amazônia há 10 pesquisadores: 6 biólogos e 4 geólogos. Para organizar a logística da próxima missão, será formada uma equipe de 4 pessoas, composta por 2 biólogos e 2 geólogos, garantindo equilíbrio entre as especialidades. De quantas formas distintas essa equipe pode ser formada? ",
+        "level": "Muito Fácil",
+        "Gabarito": "A resposta é 90"
+    },
+	{
+        "pergunta": "Os carros A, B, C, D e E disputaram uma corrida. Após a chegada, constatou-se que: D chegou antes de E. B chegou antes de E e de C, mas não foi o primeiro. E chegou depois de C, mas não foi o último. Qual a ordem de chegada dos carros? ",
+        "level": "Muito Fácil",
+        "Gabarito": "Juntando todas as peças, chegamos à ordem final: D, B, C, E, A."
+    },
+	{
+        "pergunta": "Considere a afirmação. (A camiseta é branca e a bermuda é preta. Qual a negação lógica dessa afirmação?",
+        "level": "Muito Fácil",
+        "Gabarito": "A camiseta não é branca ou a bermuda não é preta."
+    },
+	{
+        "pergunta": "Em uma prova de concurso, Concursildo encontrou a seguinte sequência lógica formada por letras A, C, E, G, ... Seguindo o mesmo padrão, qual será a décima letra dessa sequência? ",
+        "level": "Muito Fácil",
+        "Gabarito": "A décima letra da sequência será a letra S"
+    },
+	{
+        "pergunta": "Durante uma visita técnica a uma fábrica, 4 alunos – Ana, Bruno, Carlos e Daniela – decidiram visitar diferentes setores do local, que estão organizados em fila, na seguinte ordem: produção, montagem, controle de qualidade e expedição. Cada um dos alunos visitou um único setor da fábrica e sabe-se que: Ana não visitou o setor de montagem nem o de expedição;Bruno visitou o setor que fica imediatamente antes do setor visitado por Daniela;Carlos foi ao setor de montagem; e Daniela foi ao setor de expedição. Considerando essas informações, qual setor Ana visitou?",
+        "level": "Muito Fácil",
+        "Gabarito": "Ana visitou o setor de Produção."
+    },
+	{
+        "pergunta": "Marcos é escoteiro e está praticando orientação com uma bússola durante o acampamento na floresta. Ao Norte, há uma montanha coberta de árvores; ao Sul, há um campo florido; ao Leste, há um lindo lago calmo; e ao Oeste, há uma trilha de terra batida que segue entre alguns arbustos. No início da atividade, Marcos estava virado para o Norte; então ele girou 90° no sentido horário e girou mais 180° no mesmo sentido; após, observa à sua frente. Considerando as informações fornecidas, o que Marcos está olhando agora?",
+        "level": "Muito Fácil",
+        "Gabarito": "Marcos está olhando para a trilha."
+    },
+	{
+        "pergunta": "Em determinado setor de uma empresa, fez-se uma enquete sobre quem gosta de café com leite e quem gosta de café sem leite. Dos 28 funcionários do setor, 16 gostam de café sem leite, 14 gostam de café com leite, 4 gostam de ambos. Qual a quantidade de pessoas desse setor que não gosta nem de café com leite, nem de café sem leite?",
+        "level": "Muito Fácil",
+        "Gabarito": "Duas pessoas não gostam nem de café com leite, nem de café sem leite"
+    },
+	{
+        "pergunta": "Se Diego é dedicado, então Eduardo é discreto. Se Eduardo é discreto, então Fábio é firme. Sabe-se que Fábio não é firme. Nessas condições, é correto concluir o que?",
+        "level": "Muito Fácil",
+        "Gabarito": "Diego não é dedicado."
+    },
+	{
+        "pergunta": "Se Diego é dedicado, então Eduardo é discreto. Se Eduardo é discreto, então Fábio é firme. Sabe-se que Fábio não é firme. Nessas condições, é correto concluir o que?",
+        "level": "Muito Fácil",
+        "Gabarito": "Diego não é dedicado."
+    }
+]

@@ -1,0 +1,662 @@
+{
+  "cartas": [
+    {
+      "nome": "Consulta Multas de Veículos de Outra UF",
+      "resumo": "A consulta e emissão de boletos para infrações de trânsito cometidas no estado de Goiás por veículos registrados em outras Unidades Federativas (UFs) são processos simplificados graças ao serviço de “Consultar Multas de Outra UF”. Nesta página, explicaremos o que é esse serviço, quem pode solicitá-lo e como utilizá-lo eficazmente.",
+      "oque": "“Consulta Multas de Veículo de Outra UF” é um serviço público oferecido pelo Departamento Estadual de Trânsito de Goiás (Detran-GO) que permite a consulta e emissão de boletos para infrações de trânsito cometidas em Goiás por veículos registrados em outras UFs. Com este serviço, os proprietários de veículos de fora de Goiás podem acessar informações sobre multas e pagar os boletos correspondentes, mantendo-se em conformidade com a legislação de trânsito.",
+      "quem": "Qualquer pessoa interessada pode solicitar o serviço, desde que possua em mãos o número da placa do veículo em questão. Isso significa que tanto o proprietário do veículo quanto terceiros interessados, como condutores ou responsáveis pelo pagamento das multas, podem utilizar essa ferramenta para realizar consultas e gerar boletos.",
+      "como": "Utilizar o serviço “Consultar Multas de Outra UF” é simples e direto. Siga os passos abaixo para aproveitar esta facilidade: Informe o número da placa do veículo para o qual deseja consultar as multas. Acione a opção “Consultar” para iniciar o processo de consulta. Na página de resultados, selecione as multas específicas que deseja quitar ou obter informações detalhadas. Ao selecionar as multas, você terá a opção de gerar o Documento Único de Arrecadação (DUA) ou boletos individuais para pagamento. Este serviço foi projetado para simplificar o processo de consulta e pagamento de multas de trânsito em Goiás para veículos registrados em outros estados. Garanta que você esteja em dia com suas obrigações de trânsito e utilize esta ferramenta de maneira eficaz e conveniente. Se você tiver dúvidas ou precisar de assistência adicional ao usar o serviço “Consulta Multas de Veículo de Outra UF”, consulte as seções relevantes deste site ou entre em contato conosco. Estamos aqui para ajudar a facilitar o cumprimento das obrigações legais de trânsito em Goiás.",
+      "orgao": "Detran"
+    },
+    {
+      "nome": "Curso de Reciclagem Preventivo",
+      "resumo": "A página “Fazer Curso de Reciclagem” oferece informações essenciais sobre o serviço de reciclagem de CNH (Carteira Nacional de Habilitação) no Detran-GO. Este serviço é destinado a condutores que precisam realizar um curso de reciclagem, seja por motivos preventivos ou como parte da penalização por infrações de trânsito.",
+      "oque": "É um serviço que contempla a inscrição em um curso de reciclagem. O curso de reciclagem provê ao condutor uma revisão das normas, sinalizações de trânsito e atualização sobre as novas legislações vigentes.",
+      "quem": "Condutores com categorias de CNH C, D ou E, que exercem atividade remunerada e acumularam entre 14 e 19 pontos em sua CNH.",
+      "como": "O condutor pode escolher entre a modalidade presencial ou à distância. Para o curso presencial, basta selecionar uma turma para aulas presenciais. Na modalidade à distância, o condutor deve agendar o exame teórico após concluir o curso online oferecido por instituições de ensino credenciadas pelo DETRAN-GO. Independentemente da modalidade escolhida, o pagamento da taxa é obrigatório.",
+      "orgao": "Detran"
+    },
+    {
+      "nome": "Curso de Reciclagem para Condutores Infratores:",
+      "resumo": "É um serviço que contempla a inscrição em um curso de reciclagem. O curso de reciclagem provê ao condutor uma revisão das normas, sinalizações de trânsito e atualização sobre as novas legislações vigentes.",
+      "oque": "É um serviço que contempla a inscrição em um curso de reciclagem. O curso de reciclagem provê ao condutor uma revisão das normas, sinalizações de trânsito e atualização sobre as novas legislações vigentes.",
+      "quem": "Condutores que tiveram seu direito de dirigir suspenso ou cassado, estiveram envolvidos em acidentes graves ou foram condenados judicialmente por delitos de trânsito.",
+      "como": " O processo é semelhante ao curso preventivo, permitindo a escolha entre as modalidades presencial ou à distância. O pagamento da taxa também é necessário.",
+      "orgao": "Detran"
+    },
+    {
+      "nome": "Agendar consultas, tratamentos e exames radiológicos odontológicos",
+      "resumo": "Reabilitação oral com prótese total e prótese unitária,Diagnóstico de lesões da cavidade bucal,Endodontia,Cirurgias odontológicas ambulatoriais,Periodontia,Reabilitação neuro oclusal/ortopedia,Ortodontia,Radiologia odontológica,aparelhos nos dentes,canal de dentes,machucados dentro da boca,tratamento de dentes",
+      "oque": "Reabilitação oral - reconstrução parcial ou total dos dentes com prótese total e/ou prótese unitária, se necessário for; Endodontia - tratamento de canal de dentes e retratamento; Periodontia - cuida das gengivas e ossos que dão suporte aos dentes; Reabilitação Neuro Oclusal (RNO)/ ortopedia - tratamento precoce do desenvolvimento ósseo dos dentes, evitando futuros problemas de má oclusão (alinhamento dos dentes); Ortodontia - tratamento que visa ao restabelecimento da posição correta dos dentes e à correção do alinhamento dos dentes (aparelhos); Radiologia Odontológica – exames com tomadas radiográﬁcas (Raio X) que têm a finalidade de auxiliar na identificação de doenças e de elaborar tratamentos apropriados para cada situação (periapicais, bite wing, oclusais e panorâmicas); Cirurgia Buco Maxilofacial Cirurgia ambulatorial (em consultório) na cavidade oral (boca) que atua nos traumas e fraturas dos ossos da face, doenças e tumores dos maxilares, deformidades do crânio, doenças da Articulação Mandibular (ATM), entre outras.",
+      "quem": "Pessoas que utilizam os serviços do SUS e estão cadastradas na Central de Regulação Estadual (SERVIR)",
+      "como": "Etapa 1 Ser cadastrado no Sistema da Central de Regulação da Secretaria de Estado da Saúde - SES/GO (SERVIR). Depois da sua consulta, a Unidade Básica de Saúde (Posto de Saúde, CAIS ou CIAMS) colocará o seu nome no Sistema da Central de Regulação Estadual (SERVIR). Etapa 2 Aguardar agendamento Nós ligaremos prá você quando a sua vaga for disponibilizada no Sistema da Central de Regulação Estadual (SERVIR). Nessa ligação, sua consulta será agendada e você receberá data e horário marcados.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Etapa 3 Ser atendido presencialmente No dia do primeiro atendimento: - Você apresentará os documentos solicitados durante a ligação de agendamento (documentos pessoais, cartão SUS, comprovante de endereço, encaminhamento da unidade básica através do Sistema de Regulação); e - Seu tratamento começará.                                                                                                                                                                                                                                                           Etapa 4 Continuar e finalizar o tratamento Todo o restante do tratamento ocorrerá de acordo com a agenda interna da COEG.",
+      "orgao": "SES"
+    },
+    {
+      "nome": "Solicitar Fatura Digital de Água",
+      "resumo": "Também conhecido como: Fatura Digital",
+      "oque": "É o serviço que permite ao usuário solicitar que sua fatura de água mude da modalidade impressa para digital.",
+      "quem": "Proprietário (empreendedor) ou locatário, sendo pessoa física ou jurídica. Apresentar documentos pessoais; Informar o e-mail para receber a fatura; Para usar a Agência Virtual, é preciso ter cadastro com número de conta, e-mail e senha no site da Saneago: www.saneago.com.br; No atendimento via Chat, call center e WhatsApp, é necessário confirmar os dados do titular.",
+      "como": "Etapa 1 Solicitação do usuário Usuário procura um dos canais de atendimento para solicitar emissão da fatura digital (e-mail). ​Para atendimento online: O usuário pode consultar o histórico das últimas faturas de água segindo os seguintes passos: -clicar no botão acesar: - fazer login na conta gov.br escolher a unidade consumidora. Para atendimento presencial: O usuário deve se dirigir a uma das unidades vapt vupt ou escritórios locais no interior. Requisitos/ Documentos Necessários Ser o titular atual da fatura do imóvel ou representante legal com procuração registrada em cartório com firma reconhecida; Apresentar documentação pessoal; Informar endereço eletrônico (e-mail) onde deseja receber a fatura; Para atendimento por meio da Agência Virtual é necessário possuir cadastro com número de conta, e-mail e senha na Agência Virtual, disponibilizada no site da saneago: www.saneago.com.br; No atendimento via Chat, call center e Whatsapp é necessária a confirmação dos dados do titular.",
+      "orgao": "SANEAGO"
+    },
+    {
+      "nome": "Registrar denúncia junto ao PROCON",
+      "resumo": "Denúncia,atendimento",
+      "oque": "Serviço que permite ao cidadão denunciar irregularidades cometidas por fornecedores de bens ou serviços contra os direitos dos consumidores.",
+      "quem": "Cidadão interessado - Possuir os dados (nome, CNPJ ou CPF, endereço, etc) do fornecedor a ser denunciado; - Possuir cadastro no gov.br.",
+      "como": "Passo a Passo Etapa 1 Preencher ocorrência Realize o serviço através dos passos: 1- Clicar no botão \"ACESSAR\" deste site; 2- Ler as informações da tela; 3- Marcar o tipo de ocorrência; 4- Preencher as informações; 5- Salvar a ocorrência. Etapa 2 Aguardar Análise da Ocorrência Após análise, você recebe um email com um endereço eletrônico em até 24 horas. O boletim é disponibilizado em caso de aprovação. Em caso de reprovação, é possível a correção. Após aprovação, a alteração só é possível na delegacia atribuída. O nome da delegacia é informado no cabeçalho do Boletim de ocorrência. Etapa 3 Gerar o Boletim de Ocorrência Aprovado Acesse o boletim de ocorrência definitivo pelos passos: 1- Acessar o email do cadastro; 2- Clicar no endereço eletrônico do boletim; 3- O boletim de ocorrência é fornecido.",
+      "orgao": "PROCON"
+    },
+    {
+      "nome": "Registrar Ocorrência na Delegacia Virtual",
+      "resumo": "Também conhecido como: BO Virtual,RAI Virtual,boletim online ,Boletim de ocorrência via internet,rai",
+      "oque": "O serviço em que o usuário cadastra ocorrência na Delegacia Virtual. O serviço é destinado às seguintes ocorrências: -Violência contra mulher - Injúria, ameaça ou dano; -Furto de celular, documentos, objetos e / ou valores; -Perda ou Extravio de documentos e objetos;  -Desaparecimento de pessoa; -Acidente de trânsito sem vítima; -Danos materiais; -Estelionato; -Crimes de maus tratos contra animais.",
+      "quem": "Vítima ou comunicante da ocorrência. Ter mais de 18 anos. Vítima ou Comunicante de Ocorrência menor de 18 anos. Ser representado pelo responsável legal. Pessoa Jurídica. Possuir dados da empresa (Nome, Razão Social e CNPJ).",
+      "como": "Para realizar o serviço, primeiramente, clique no botão \"ACESSAR\" neste site e leia as informações na tela. Em seguida, marque o tipo de ocorrência, preencha as informações necessárias e, por fim, salve a ocorrência.",
+      "orgao": "SSP"
+    }
+  ],
+  "perguntas":[
+    {
+        "pergunta": "Meu filho estuda em escola do estado, tem algum site com atividade pra ele fazer em casa?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Preciso ir na SEFAZ resolver um problema, tem que marcar hora antes?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como eu faço pra agendar um atendimento no Vapt Vupt?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou servidor público e preciso marcar uma consulta no Ipasgo, como faço?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Meu dente tá doendo muito, acho que é canal. Onde eu consigo tratar de graça pelo SUS?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Não passei na prova de legislação do Detran, como faço pra marcar de novo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "O que é esse tal de Agendamento Goiás (AGO)?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Estudo na UEG e me matriculei numa matéria errada, posso trocar?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Quero montar uma indústria aqui em Goiás, a CODEGO vende terrenos pra isso?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como um curso da UEG pode mudar a grade de matérias?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou trans e estudo na UEG. Posso usar meu nome social nos documentos da faculdade?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Mudei de endereço, como faço para atualizar meu cadastro no Ipasgo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Casei e mudei meu nome. Preciso atualizar isso nos registros da minha empresa na JUCEG. Como faço?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Minha empresa mudou de endereço, preciso avisar a Secretaria da Economia?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Estou com uma medida protetiva contra meu ex, mas ele continua me ameaçando. Quem eu chamo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Meu vizinho me xingou e me ameaçou, mas não foi nada grave. A polícia pode resolver isso no local?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Bati o carro e não teve vítima, só amassou a lataria. Preciso chamar a polícia de trânsito?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Chamei a polícia pra uma briga aqui na rua, como pego uma cópia do registro que eles fizeram?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Um órgão público está pedindo pra confirmar se meu diploma da UEG é verdadeiro, como faço isso?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Os dados da minha empresa na JUCEG estão errados, como corrijo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Tenho uma empresa que vende para o governo. Como mantenho meu cadastro de fornecedor atualizado no Comprasnet?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Mudei a atividade do meu MEI, preciso atualizar isso na Junta Comercial?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como atualizo meu cadastro de fornecedor no SISLOG?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou contador, preciso autenticar os livros fiscais de um cliente. Onde faço isso?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Tenho uma empresa de fretamento e quero fechar. Como dou baixa no cadastro da AGR?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Vendi uma van da minha empresa de transporte. Como tiro ela do cadastro da AGR?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Perdi o documento do meu carro, como consigo outro? Ouvi dizer que agora é digital.",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Meu carro foi apreendido numa blitz, como faço pra regularizar e tirar a restrição?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Meu carro bateu e foi classificado como 'média monta'. Já consertei, como tiro essa restrição do documento?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Tenho interesse em investir em Goiás. O governo oferece algum tipo de apoio ou orientação?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Quero abrir uma empresa de van para fazer turismo. Preciso de cadastro na AGR?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como faço para cadastrar minha empresa para vender para o governo de Goiás?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou responsável por uma comunidade terapêutica, onde devo cadastrar a instituição e os acolhidos?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Dirijo um asilo e preciso cadastrar na Secretaria de Saúde. Como proceder?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Tenho um portal de notícias e gostaria de receber publicidade do governo. Como me cadastro na SECOM?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou de uma faculdade particular e queria saber como participar do ProBem da OVG.",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou pesquisador, como me cadastro na FAPEG para poder pedir bolsa?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Comprei um ônibus novo para minha empresa de turismo. Como faço o cadastro dele na AGR?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Fui mal atendido em um posto de saúde, onde posso reclamar?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Passei na UEG! Como faço a carteirinha da biblioteca?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "A UEG oferece algum curso rápido sobre como abrir uma empresa ou sobre tecnologia?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Trabalho no CRAS da minha cidade e gostaria de uma capacitação sobre o Bolsa Família, a SEDS oferece?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou pequeno produtor rural, posso vender minhas verduras direto na CEASA?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como faço para alugar um box ou loja na CEASA para vender meus produtos?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "A caixa d'água do meu prédio secou, posso comprar água da Saneago com caminhão-pipa?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Vendi meu carro e o comprador não transferiu. Como faço para não receber as multas dele?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Vou me aposentar, como sei se não tenho nenhum processo administrativo contra mim?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Tem como ver pelo celular se um livro que eu preciso está disponível na biblioteca da UEG?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Fiz um B.O. online de perda de documento, como pego uma cópia dele agora?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Onde posso encontrar informações sobre os parques e reservas estaduais de Goiás?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Queria saber quais empresas o Estado de Goiás está contratando, onde vejo isso?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Quais cursos a UEG oferece?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como vejo quantos pontos eu tenho na minha carteira de motorista?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Onde encontro dados sobre a economia da minha cidade?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como eu sei se tenho alguma dívida de imposto com o estado no meu CPF?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como pego o informe do Ipasgo para declarar no imposto de renda?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Fui nomeado em um concurso, como acho meu nome no Diário Oficial?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Fui multado pela SEFAZ e entrei com recurso. Como acompanho o andamento do processo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Preciso de um remédio de alto custo, como sei se tem na farmácia do estado?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como posso ver minhas notas e faltas da faculdade UEG pelo celular?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Quero ver o que foi descontado do meu Ipasgo este mês, onde olho?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como vejo minhas faltas em cada matéria na UEG?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Minha conta de água veio muito alta, como vejo o consumo dos meses passados para comparar?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Onde encontro informações sobre a saúde em Goiás, tipo número de leitos e atendimentos?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Preciso de ajuda para um parente com dependência química. Onde acho uma lista de comunidades terapêuticas em Goiás?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Estou procurando um asilo para minha avó. Onde consigo uma lista das instituições de Goiás?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como sei se o remédio que o médico passou para mim é fornecido pelo SUS em Goiás?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Fiz um parcelamento de imposto com a SEFAZ, como vejo as parcelas que já paguei?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Tem como eu ver todas as notas fiscais que foram emitidas no meu CPF?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Tenho o número de uma nota fiscal, como posso consultar ela na internet?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Meu celular foi roubado e a polícia recuperou. Onde posso consultar se ele está em alguma delegacia?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Pedi CPF na nota o ano todo, como sei qual vai ser meu desconto no IPVA?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Onde posso achar pesquisas sobre o turismo em Caldas Novas?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Meu tio sumiu. Onde posso procurar por informações de pessoas desaparecidas?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Estou na fila de espera para uma cirurgia no SUS, tem como saber minha posição na fila?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Dei entrada num recurso de multa no DETRAN. Como vejo o andamento disso?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Abri um processo no governo, me deram um número do SEI. Onde consulto o que aconteceu com ele?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Onde posso ver meus exames e consultas que fiz nos hospitais do estado?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como sei se uma empresa tem algum benefício fiscal do governo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como consulto o andamento do meu processo de tirar a carteira de motorista?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Fiz a prova teórica do Detran ontem, onde vejo o resultado?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como posso ver minhas contas de água antigas?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Qual o horário de funcionamento do Vapt Vupt do Araguaia Shopping?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Quero comprar um carro usado, como faço pra ver se tem multas ou IPVA atrasado?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Meu carro foi roubado. Se a polícia encontrar, como eu fico sabendo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Tenho uma loja e quero oferecer desconto para servidor público, como faço para entrar no Clube de Desconto?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Vou fazer uma exposição de gado na minha cidade. Preciso de alguma licença da Agrodefesa?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou estudante da UEG e quero criar uma empresa júnior com meus colegas, por onde começo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Recebi uma casa de herança, preciso pagar algum imposto para o estado?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou criador de gado, onde declaro a vacinação contra raiva do meu rebanho?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Onde posso denunciar a conduta de um policial?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "A escola do meu filho está com vários problemas, onde posso fazer uma denúncia?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Eu estava tirando carteira de carro e moto, mas reprovei na de moto. Posso pegar só a de carro por enquanto?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como posso consultar os documentos de uma empresa que estão arquivados na JUCEG?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou da prefeitura de Pirenópolis, como consigo que a Goiás Turismo ajude a divulgar nossa cidade?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Plantei soja este ano, preciso cadastrar minha lavoura na Agrodefesa?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Minha empresa prestou um serviço para a UEG, como consigo um atestado de capacidade técnica?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Terminei minha pós na UEG, como pego o certificado?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Preciso de um documento que prove que estou matriculado na UEG. Onde consigo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Fui orientador de iniciação científica na UEG, como pego uma declaração disso?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Minha fazenda fica na divisa de dois municípios, como consigo um documento oficial dizendo a localização correta?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Preciso comprovar que não tenho nenhum carro no meu nome. Onde tiro essa certidão?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como tiro uma certidão de que não devo nada para a Saneago?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Preciso de uma certidão negativa de débitos estaduais para a minha empresa. Como emito?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Fui multado pelo PROCON e a dívida foi pra PGE. Como tiro uma certidão para saber se está tudo certo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "A Saneago emite algum documento que prova que paguei todas as contas do ano?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "A parcela da minha dívida com o estado venceu, como gero um novo boleto?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou produtor rural, como emito nota fiscal eletrônica?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Preciso transportar meu gado para outra fazenda, que documento eu preciso?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Tenho um caminhão limpa-fossa, onde posso descartar os dejetos legalmente?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como solicito meu histórico escolar da faculdade na UEG?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Passei na junta médica do DETRAN, como pego o laudo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Quitei minha casa da COHAB, como faço pra liberar a hipoteca?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou pessoa física e preciso emitir uma nota fiscal de venda de um bem, como faço?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Não recebi meu boleto da casa da COHAB, onde pego a segunda via?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Recebi uma notificação do Ipasgo sobre pendência, como vejo do que se trata?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Perdi minha conta de água, como pego a segunda via pra pagar?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Perdi meu cartão do Ipasgo, como peço outro?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Minha prestação da COHAB não chegou, como emito uma nova?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Bombei na prova prática de direção. Como pago a taxa para fazer de novo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Vendi umas vacas para meu vizinho, mas não vou transportar agora. Preciso fazer algum documento na Agrodefesa?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Moro numa terra do estado há anos, como consigo o título definitivo dela?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Preciso de uma cópia do meu contrato de financiamento da COHAB, onde consigo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Perdi o boleto do imposto de herança (ITCD), como gero outro?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Meu processo de alteração na JUCEG foi negado, posso pedir para reavaliarem?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Meu recurso na JUCEG foi negado de novo. Existe outra instância para recorrer?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "A decisão da JUCEG sobre minha empresa foi desfavorável, posso recorrer ao plenário?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Quero enviar uma carta para o Governador, como faço?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Está tendo uma manifestação violenta na minha rua, qual polícia eu devo chamar?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Minha CNH foi suspensa, como faço para recorrer?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Preciso entregar um ofício na Secretaria de Segurança Pública. Onde é o protocolo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Já sei todo o conteúdo de uma matéria da faculdade. Posso fazer uma prova para passar direto nela na UEG?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Troquei de contador, como tiro o antigo do cadastro da minha empresa na Sefaz?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Formei na UEG, como solicito meu diploma?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Perdi meu diploma da UEG, tem como tirar uma segunda via?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Sou leiloeiro, a JUCEG emite alguma carteira profissional para mim?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Levei uma multa e minha carteira foi suspensa. Tenho que fazer curso de reciclagem. Dá pra fazer online?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Minha CNH foi cassada. Onde faço o curso de reciclagem presencial?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Onde tem Restaurante do Bem aqui em Goiânia e quanto custa a refeição?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Meu filho foi preso nos Estados Unidos, o governo de Goiás pode me ajudar a ter notícias dele?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Minha irmã está doente em Portugal, como consigo informações sobre o estado de saúde dela?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como consigo uma lista de empresas de um certo ramo de atividade aqui de Goiás?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Meu filho é atleta paralímpico e tem bons resultados. Existe algum programa de apoio do governo para ele?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Esqueci meu cartão do Ipasgo em casa, tem como usar um cartão virtual pelo celular?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Vi um edital de licitação do estado que parece ter uma irregularidade. Posso contestar?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como incluo meu contador como responsável pela minha empresa na Secretaria da Economia?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Como faço para incluir minha esposa e meu filho no meu plano do Ipasgo?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Tenho uma agência de turismo. Como faço para me cadastrar no Cadastur?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Comprei um carro em outro estado e a nota fiscal não aparece no sistema do Detran GO. O que fazer?",
+        "servico_relacionado": ""
+    },
+    {
+        "pergunta": "Tenho uma ideia de negócio inovadora. A UEG tem algum programa que ajuda a desenvolver a empresa?",
+        "servico_relacionado": ""
+    }
+]
+} 
